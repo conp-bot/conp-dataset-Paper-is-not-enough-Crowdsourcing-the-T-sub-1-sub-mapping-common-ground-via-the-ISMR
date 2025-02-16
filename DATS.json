@@ -1,0 +1,206 @@
+{
+    "identifier": {
+        "identifier": "https://doi.org/10.5281/zenodo.10589601",
+        "identifierSource": "DOI"
+    },
+    "title": "Paper is not enough: Crowdsourcing the T<sub>1</sub> mapping common ground via the ISMRM reproducibility challenge",
+    "creators": [
+        {
+            "name": "Mathieu Boudreau"
+        },
+        {
+            "name": "Agah Karakuzu"
+        },
+        {
+            "name": "Julien Cohen-Adad"
+        },
+        {
+            "name": "Ecem Bozkurt"
+        },
+        {
+            "name": "Madeline Carr"
+        },
+        {
+            "name": "Marco Castellaro"
+        },
+        {
+            "name": "Luis Concha"
+        },
+        {
+            "name": "Mariya Doneva"
+        },
+        {
+            "name": "Seraina A. Dual"
+        },
+        {
+            "name": "Alex Ensworth"
+        },
+        {
+            "name": "Alexandru Foias"
+        },
+        {
+            "name": "V\u00e9ronique Fortier"
+        },
+        {
+            "name": "Refaat E. Gabr"
+        },
+        {
+            "name": "Guillaume Gilbert"
+        },
+        {
+            "name": "Carri K. Glide-Hurst"
+        },
+        {
+            "name": "Matthew Grech-Sollars"
+        },
+        {
+            "name": "Siyuan Hu"
+        },
+        {
+            "name": "Oscar Jalnefjord"
+        },
+        {
+            "name": "Jorge Jovicich"
+        },
+        {
+            "name": "K\u00fcbra Keskin"
+        },
+        {
+            "name": "Peter Koken"
+        },
+        {
+            "name": "Anastasia Kolokotronis"
+        },
+        {
+            "name": "Simran Kukran"
+        },
+        {
+            "name": "Nam. G. Lee"
+        },
+        {
+            "name": "Ives R. Levesque"
+        },
+        {
+            "name": "Bochao Li"
+        },
+        {
+            "name": "Dan Ma"
+        },
+        {
+            "name": "Burkhard M\u00e4dler"
+        },
+        {
+            "name": "Nyasha Maforo"
+        },
+        {
+            "name": "Jamie Near"
+        },
+        {
+            "name": "Erick Pasaye"
+        },
+        {
+            "name": "Alonso Ramirez-Manzanares"
+        },
+        {
+            "name": "Ben Statton"
+        },
+        {
+            "name": "Christian Stehning"
+        },
+        {
+            "name": "Stefano Tambalo"
+        },
+        {
+            "name": "Ye Tian"
+        },
+        {
+            "name": "Chenyang Wang"
+        },
+        {
+            "name": "Kilian Weis"
+        },
+        {
+            "name": "Niloufar Zakariaei"
+        },
+        {
+            "name": "Shuo Zhang"
+        },
+        {
+            "name": "Ziwei Zhao"
+        },
+        {
+            "name": "Nikola Stikov"
+        }
+    ],
+    "description": "Dataset provided for NeuroLibre preprint.\n Author repo: https://www.github.com/rrsg2020/note \nNeuroLibre fork:https://github.com/roboneurolibre/note <p>For details, please visit the corresponding <a href=\"https://github.com/neurolibre/neurolibre-reviews/issues/23\">NeuroLibre technical screening.</a></p>  \n<p><strong><a href=\"https://neurolibre.org\" target=\"NeuroLibre\">https://neurolibre.org</a></strong></p>",
+    "version": "None",
+    "licenses": [
+        {
+            "name": "cc-zero"
+        }
+    ],
+    "keywords": [
+        {
+            "value": "canadian-open-neuroscience-platform"
+        },
+        {
+            "value": "neurolibre"
+        }
+    ],
+    "distributions": [
+        {
+            "formats": [
+                "ZIP"
+            ],
+            "size": 789.1,
+            "unit": {
+                "value": "MB"
+            },
+            "access": {
+                "landingPage": null,
+                "authorizations": [
+                    {
+                        "value": "public"
+                    }
+                ]
+            }
+        }
+    ],
+    "extraProperties": [
+        {
+            "category": "logo",
+            "values": [
+                {
+                    "value": "https://about.zenodo.org/static/img/logos/zenodo-gradient-round.svg"
+                }
+            ]
+        },
+        {
+            "category": "files",
+            "values": [
+                {
+                    "value": "1"
+                }
+            ]
+        }
+    ],
+    "dates": [
+        {
+            "date": "2024-01-31 17:09:34",
+            "type": {
+                "value": "date created"
+            }
+        },
+        {
+            "date": "2024-01-31 17:09:34",
+            "type": {
+                "value": "date modified"
+            }
+        }
+    ],
+    "types": [
+        {
+            "value": "unknown"
+        }
+    ]
+}
