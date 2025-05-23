@@ -157,7 +157,7 @@
                 "value": "MB"
             },
             "access": {
-                "landingPage": null,
+                "landingPage": "https://zenodo.org/records/10844542",
                 "authorizations": [
                     {
                         "value": "public"
@@ -172,6 +172,22 @@
             "values": [
                 {
                     "value": "https://about.zenodo.org/static/img/logos/zenodo-gradient-round.svg"
+                }
+            ]
+        },
+        {
+            "category": "CONP_status",
+            "values": [
+                {
+                    "value": "Canadian"
+                }
+            ]
+        },
+        {
+            "category": "subjects",
+            "values": [
+                {
+                    "value": "unknown"
                 }
             ]
         },
@@ -200,7 +216,9 @@
     ],
     "types": [
         {
-            "value": "unknown"
+            "information": {
+                "value": "unknown"
+            }
         }
     ]
 }
